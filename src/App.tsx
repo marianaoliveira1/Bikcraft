@@ -1,6 +1,10 @@
+import { Router } from "./Routes"
+
 function App() {
   return (
-    <div>ola, mundo</div>
+    <div>
+      <Router />
+    </div>
   )
 }
 
